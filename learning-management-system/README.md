@@ -1,12 +1,4 @@
-# Learning Management System
 
-> **Project:** Learning Management System (Frontend)
-></br>
-> **Author:** MD. Amdad Islam
-></br>
-> **Repository:** [https://github.com/amdadislam01/learning-management-system](https://github.com/amdadislam01/learning-management-system)
-
----
 
 ## ⚡ Overview
 
@@ -140,10 +132,4 @@ netlify deploy
 
 ---
 
-## 📞 Contact
 
-* GitHub: [amdadislam01](https://github.com/amdadislam01)
-* Email: [amdad20063@gmail.com](mailto:amdad20063@gmail.com) 
-
----
-*Prepared with ❤️ for MD. Amdad Islam*
